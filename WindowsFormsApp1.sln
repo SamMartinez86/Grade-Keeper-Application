@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GradeCalc", "WindowsFormsApp1\GradeCalc.csproj", "{488A8C70-8247-4580-8701-92A2F1C2B617}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{488A8C70-8247-4580-8701-92A2F1C2B617}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{488A8C70-8247-4580-8701-92A2F1C2B617}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{488A8C70-8247-4580-8701-92A2F1C2B617}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{488A8C70-8247-4580-8701-92A2F1C2B617}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D6F024C4-1009-4D47-A380-E04AE130B64F}
+	EndGlobalSection
+EndGlobal

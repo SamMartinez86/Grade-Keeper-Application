@@ -1,0 +1,10 @@
+C:\Users\mr.guy\Desktop\CS 3280\Assignment 3\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\GradeCalc.csprojAssemblyReference.cache
+C:\Users\mr.guy\Desktop\CS 3280\Assignment 3\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\mr.guy\Desktop\CS 3280\Assignment 3\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\GradeCalc.csproj.GenerateResource.cache
+C:\Users\mr.guy\Desktop\CS 3280\Assignment 3\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\GradeCalc.csproj.CoreCompileInputs.cache
+C:\Users\mr.guy\Desktop\CS 3280\Assignment 3\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\mr.guy\Desktop\CS 3280\Assignment 3\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\mr.guy\Desktop\CS 3280\Assignment 3\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\GradeCalc.Form1.resources
+C:\Users\mr.guy\Desktop\CS 3280\Assignment 3\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\mr.guy\Desktop\CS 3280\Assignment 3\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\mr.guy\Desktop\CS 3280\Assignment 3\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
